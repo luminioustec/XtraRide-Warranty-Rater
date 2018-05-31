@@ -1,0 +1,1402 @@
+2018-05-16 07:09:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-16 07:09:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-16 07:09:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-16 07:09:32 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-16 07:16:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-16 07:17:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-16 07:17:12 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-16 07:17:14 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-17 02:29:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-17 02:30:07 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-17 02:30:08 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-17 04:33:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-17 04:33:20 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-17 04:33:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-17 10:17:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-17 10:17:15 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-17 10:19:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-17 10:19:32 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-18 02:21:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-18 02:45:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-18 02:45:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-18 02:45:42 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-18 02:46:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-18 02:46:25 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-18 02:48:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-18 10:40:08 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-21 04:11:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-21 04:13:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-21 04:13:34 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-21 05:42:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-21 05:42:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-21 05:42:47 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-21 05:42:47 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-22 02:12:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-23 05:42:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-23 05:42:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-23 05:42:59 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-23 05:43:00 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-23 08:43:46 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'silling_price_id' doesn't have a default value
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(AppModel), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(199): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-24 02:19:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-24 02:19:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-24 02:19:11 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-24 08:20:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-24 08:20:17 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-24 08:20:18 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-24 08:24:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-25 05:35:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-25 05:35:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-25 05:35:46 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-25 06:32:30 Error: [MissingActionException] Action AdminsController::vehicle_type() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminsController',
+  'action' => 'vehicle_type',
+)
+Request URL: /admins/vehicle_type
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-25 11:00:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-25 11:29:49 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'deductible_id' doesn't have a default value
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(AppModel), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(220): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-25 11:32:01 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'deductible_id' doesn't have a default value
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(AppModel), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(220): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-25 11:34:24 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'deductible_id' doesn't have a default value
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(AppModel), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(220): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-25 11:35:04 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'deductible_id' doesn't have a default value
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(AppModel), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(220): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-25 11:45:13 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'deductible_id' doesn't have a default value
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(AppModel), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(220): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-29 02:11:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 02:40:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 02:52:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 02:58:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 02:58:16 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-29 02:58:17 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-29 05:31:07 Error: [MissingActionException] Action AdminsController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminsController',
+  'action' => 'favicon.ico',
+)
+Request URL: /admins/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-29 08:39:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 08:39:10 Error: [ParseError] syntax error, unexpected end of file
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(933): View->_evaluate('E:\\HostingSpace...', Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(473): View->_render('E:\\HostingSpace...')
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#7 {main}
+2018-05-29 08:41:34 Error: [ParseError] syntax error, unexpected end of file
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(933): View->_evaluate('E:\\HostingSpace...', Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(473): View->_render('E:\\HostingSpace...')
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#7 {main}
+2018-05-29 08:55:37 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 08:56:42 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 08:59:00 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 09:00:32 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 09:02:05 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 09:09:42 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 09:13:27 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 09:13:45 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 09:14:33 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MyDeductible.price_id' in 'field list'
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('SELECT `MyDeduc...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(671): DboSource->execute('SELECT `MyDeduc...', Array, Array)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1458): DboSource->fetchAll('SELECT `MyDeduc...', Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1292): DboSource->_fetchHasMany(Object(Price), 'SELECT `MyDeduc...', Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1151): DboSource->queryAssociation(Object(Price), Object(AppModel), 'hasMany', 'MyDeductible', Array, Array, true, Array, 0, Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Price), Array)
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(237): Model->find('all')
+#9 [internal function]: AdminsController->list_range()
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#13 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#15 {main}
+2018-05-29 09:14:51 Error: Fatal Error (64): Cannot redeclare Price::$hasOne in [E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Model\Price.php, line 7]
+2018-05-29 09:14:51 Error: [FatalErrorException] Cannot redeclare Price::$hasOne
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'E:\\HostingSpace...', 7)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', 'E:\\HostingSpace...', 7, Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-05-29 09:15:16 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Plan.price_id' in 'on clause'
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('SELECT `Price`....', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(671): DboSource->execute('SELECT `Price`....', Array, Array)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1120): DboSource->fetchAll('SELECT `Price`....', Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Price), Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(237): Model->find('all')
+#7 [internal function]: AdminsController->list_range()
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#13 {main}
+2018-05-29 09:16:36 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Deductible.price_id' in 'field list'
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('SELECT `Deducti...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(671): DboSource->execute('SELECT `Deducti...', Array, Array)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1458): DboSource->fetchAll('SELECT `Deducti...', Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1292): DboSource->_fetchHasMany(Object(Price), 'SELECT `Deducti...', Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1151): DboSource->queryAssociation(Object(Price), Object(AppModel), 'hasMany', 'Deductible', Array, Array, true, Array, 0, Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Price), Array)
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(237): Model->find('all')
+#9 [internal function]: AdminsController->list_range()
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#13 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#15 {main}
+2018-05-29 09:18:26 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 09:20:16 Error: [MissingTableException] Table vehcile_types for model VehcileType was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'vehcile_types',
+  'class' => 'VehcileType',
+  'ds' => 'default',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3660): Model->setSource('vehcile_types')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1394): Model->getDataSource()
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(2542): Model->schema()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1760): DboSource->fields(Object(AppModel), 'VehcileType', '')
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1107): DboSource->generateAssociationQuery(Object(Price), Object(AppModel), 'belongsTo', 'VehcileType', Array, Array, false)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Price), Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(237): Model->find('all')
+#8 [internal function]: AdminsController->list_range()
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#14 {main}
+2018-05-29 09:21:29 Error: [MissingTableException] Table vehcile_types for model VehcileType was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'vehcile_types',
+  'class' => 'VehcileType',
+  'ds' => 'default',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3660): Model->setSource('vehcile_types')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1394): Model->getDataSource()
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(2542): Model->schema()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1760): DboSource->fields(Object(AppModel), 'VehcileType', '')
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1107): DboSource->generateAssociationQuery(Object(Price), Object(AppModel), 'belongsTo', 'VehcileType', Array, Array, false)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Price), Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(237): Model->find('all')
+#8 [internal function]: AdminsController->list_range()
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#14 {main}
+2018-05-29 09:25:31 Error: [MissingTableException] Table vehcile_types for model VehcileType was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'vehcile_types',
+  'class' => 'VehcileType',
+  'ds' => 'default',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3660): Model->setSource('vehcile_types')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1394): Model->getDataSource()
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(2542): Model->schema()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1760): DboSource->fields(Object(AppModel), 'VehcileType', '')
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1107): DboSource->generateAssociationQuery(Object(Price), Object(AppModel), 'belongsTo', 'VehcileType', Array, Array, false)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Price), Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(237): Model->find('all')
+#8 [internal function]: AdminsController->list_range()
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#14 {main}
+2018-05-29 09:26:16 Error: [MissingViewException] View file "Admins\list_range.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admins\\list_range.ctp',
+)
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(470): View->_getViewFileName('Admins\\list_ran...')
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#6 {main}
+2018-05-29 10:32:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 10:32:23 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-29 10:32:34 Error: [MissingControllerException] Controller class Users.loginController could not be found.
+Exception Attributes: array (
+  'class' => 'Users.loginController',
+  'plugin' => NULL,
+)
+Request URL: /users.login
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 10:33:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-29 10:33:28 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-29 10:34:29 Error: [MissingActionException] Action AdminsController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminsController',
+  'action' => 'favicon.ico',
+)
+Request URL: /admins/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-29 12:25:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 05:23:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 05:23:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 05:23:58 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-30 05:23:59 Error: [MissingActionException] Action UsersController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'favicon.ico',
+)
+Request URL: /users/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-30 05:25:24 Error: [MissingActionException] Action AdminsController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminsController',
+  'action' => 'favicon.ico',
+)
+Request URL: /admins/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-30 05:25:25 Error: [MissingActionException] Action AdminsController::favicon.ico() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminsController',
+  'action' => 'favicon.ico',
+)
+Request URL: /admins/favicon.ico
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-30 08:46:27 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Mileage.amount' in 'field list'
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('SELECT `Mileage...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(671): DboSource->execute('SELECT `Mileage...', Array, Array)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1120): DboSource->fetchAll('SELECT `Mileage...', Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3038): DboSource->read(Object(Mileage), Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(223): Model->find('all', Array)
+#7 [internal function]: AdminsController->add_range()
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#13 {main}
+2018-05-30 08:53:02 Error: [PDOException] SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'plan_id' at row 1
+Request URL: /admins/add_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(468): PDOStatement->execute(Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(434): DboSource->_execute('INSERT INTO `LT...', Array)
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Datasource\DboSource.php(1026): DboSource->execute('INSERT INTO `LT...')
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1940): DboSource->create(Object(Price), Array, Array)
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Model\Model.php(1758): Model->_doSave(Array, Array)
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\Controller\AdminsController.php(227): Model->save(Array)
+#6 [internal function]: AdminsController->add_range()
+#7 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(AdminsController), Array)
+#8 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#10 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#12 {main}
+2018-05-30 09:01:30 Error: [ParseError] syntax error, unexpected end of file
+Request URL: /admins/list_range
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(933): View->_evaluate('E:\\HostingSpace...', Array)
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\View\View.php(473): View->_render('E:\\HostingSpace...')
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#5 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#7 {main}
+2018-05-30 09:08:07 Error: [MissingActionException] Action AdminsController::login.html() could not be found.
+Exception Attributes: array (
+  'controller' => 'AdminsController',
+  'action' => 'login.html',
+)
+Request URL: /admins/login.html
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AdminsController), Object(CakeRequest))
+#2 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#4 {main}
+2018-05-30 09:10:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:28:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:28:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:28:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:32:59 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:33:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:34:28 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:37:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:38:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:44:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 09:46:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:24:42 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:25:17 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:29:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:29:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:29:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:33:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:39:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:39:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
+2018-05-30 10:51:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/frontend/layout/img/up.png
+Stack Trace:
+#0 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 E:\HostingSpaces\LTNet\warranty.luminoustec.net\wwwroot\index.php(41): require('E:\\HostingSpace...')
+#2 {main}
